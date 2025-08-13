@@ -16,10 +16,10 @@ name: Mitchell van der Woude
 headline: headline message
 description: >- # dont remove this line. this will ignore all new lines until the next section
   Results-driven Mechanical Engineer specializing in mechanical system architecture, parametric CAD design, and
-  fnite element analysis (FEA). Profcient in SolidWorks, ANSYS, MATLAB, and Python for automated data pipelines,
+  finite element analysis (FEA). Proficient in SolidWorks, ANSYS, MATLAB, and Python for automated data pipelines,
   performance optimization workfows, and reproducible engineering analysis. Skilled in concept-to-prototype
-  development, design verifcation and validation, and cross-functional collaboration to deliver projects to exacting
-  specifcations. Committed to design for reliability and high-performance, durable engineering solutions.
+  development, design verification and validation, and cross-functional collaboration to deliver projects to exacting
+  specifications. Committed to design for reliability and high-performance, durable engineering solutions.
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
 profile_image: ./assets/images/profile-image/profile-pic.jpeg
@@ -34,7 +34,7 @@ resume-url: ./assets/resume/CV-Mitchell_vanderWoude.pdf
 
 external-links:    # input only your own url slug. The icons with missing entries will not appear.
   linkedin: mjvanderwoude    # https://www.linkedin.com/in/mitchell-van-der-woude-b05661135/ 
-  github: leea12    # https://github.com/{your url slug} 
+  github: mjvanderwoude    # https://github.com/{your url slug} 
   stackoverflow: test      # https://stackoverflow.com/users/{your url slug}
   medium:            # https://medium.com/@{your url slug} 
   x-twitter:   # https://x.com/{your url slug} 
