@@ -22,7 +22,7 @@ description: >- # dont remove this line. this will ignore all new lines until th
   specifications. Committed to design for reliability and high-performance, durable engineering solutions.
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
-profile_image: ./assets/images/profile-image/profile-pic.jpeg
+profile_image: ./assets/images/profile-image/profile-pic.jpg
 
 
 # Link your resume
