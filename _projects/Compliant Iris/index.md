@@ -5,5 +5,5 @@ description:  Design and evaluate compliant mechanism to ensure constant torque 
 skills: 
 - skill 1
 - skill 2
-main-image: /project.webp 
+main-image: /iris-closed.pdf 
 ---
