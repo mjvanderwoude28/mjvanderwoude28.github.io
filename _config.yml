@@ -47,8 +47,10 @@ external-links:    # input only your own url slug. The icons with missing entrie
 
 # Skills Section - Add the list of your Skills by categories/tools. The indentation for each level needs to be precise. 
 skills:
-  - category: CAD & Modeling
+  - category: Mechanical Design
     tools:
+    - Freehand Sketching
+    - Computer Aided Design (CAD)
     - Parametric Modeling
     - Solidworks
     - Tolerance Analysis
