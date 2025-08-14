@@ -12,8 +12,8 @@ title: Mitchell van der Woude's Portfolio # This is what shows up in the tab of 
 
 
 # Hero Section
-name: Mitchell van der Woude
-headline: headline message
+name: Mitchell van der Woude, Ir.
+headline: Mechanical Engineer (Ir)
 description: >- # dont remove this line. this will ignore all new lines until the next section
   Results-driven Mechanical Engineer specializing in mechanical system architecture, parametric CAD design, and
   finite element analysis (FEA). Proficient in SolidWorks, ANSYS, MATLAB, and Python for automated data pipelines,
@@ -35,7 +35,7 @@ resume-url: ./assets/resume/CV-Mitchell_vanderWoude.pdf
 external-links:    # input only your own url slug. The icons with missing entries will not appear.
   linkedin: mjvanderwoude    # https://www.linkedin.com/in/mitchell-van-der-woude-b05661135/ 
   github: mjvanderwoude    # https://github.com/mjvanderwoude28.github.io 
-  stackoverflow: test      # https://stackoverflow.com/users/{your url slug}
+  #stackoverflow:      # https://stackoverflow.com/users/{your url slug}
   medium:            # https://medium.com/@{your url slug} 
   x-twitter:   # https://x.com/{your url slug} 
   threads:            # https://threads.net/@{your url slug} 
