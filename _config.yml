@@ -34,7 +34,7 @@ resume-url: ./assets/resume/CV-Mitchell_vanderWoude.pdf
 
 external-links:    # input only your own url slug. The icons with missing entries will not appear.
   linkedin: mitchell-van-der-woude-b05661135/   # https://www.linkedin.com/in/mitchell-van-der-woude-b05661135/ 
-  github: mjvanderwoude28.github.io    # https://github.com/mjvanderwoude28.github.io 
+  github: mjvanderwoude28    # https://github.com/mjvanderwoude28.github.io 
   #stackoverflow:      # https://stackoverflow.com/users/{your url slug}
   medium:            # https://medium.com/@{your url slug} 
   x-twitter:   # https://x.com/{your url slug} 
@@ -47,31 +47,43 @@ external-links:    # input only your own url slug. The icons with missing entrie
 
 # Skills Section - Add the list of your Skills by categories/tools. The indentation for each level needs to be precise. 
 skills:
-  - category: 3D Modeling
+  - category: CAD & Modeling
     tools:
+    - Parametric Modeling
     - Solidworks
-  - category: Prototyping
+    - Tolerance Analysis
+  - category: Optimization & Simulation Analysis
     tools:
-    - SLA
-    - CNC
-    - FDM
-    - SLS
-    - DMLS
-    - Laser Cutting
-    - Breadboarding for circuit testing
-  - category: Design Standards / Practices
+    - Finite Element Analysis (FEA)
+    - ANSYS
+    - APDL
+  - category: Programming & Automation
     tools:
-    - GD&T ASME Y14
-    - ISO fits and tolerances
-    - PLM (PTC Windchill / Arena)   
+    - MATLAB
+    - PYTHON
+    - C++
+  - category: Manufacturing & Testing
+    tools:
+    - Design for Manufacturing
+    - Design for Assembly
+    - Rapid Prototyping (FDM, SLA, SLS, DMLS, Laser Cutting)
+    - Test Procedure Development
+  - category: Engineering Practices
+    tools:
+    - Mechanical System Architecture
+    - Design Verification and Validation
+    - Design for Reliability
+    - Performance Optimization   
   - category: Problem Solving / Risk Management
     tools:
     - Root Cause Analysis (e.g., 5 Whys, Fishbone Diagram)
-    - ACRREx Method
+    - Sensitivity Analysis
+    - Risk assessment Matrices
+    - Risk-Based Decision Making
 
 
 # Contact Form Setup. Setup an account and copy over the key. When someone fills out the form, it will be received in your email.
-formspree-key:   https://formspree.io/f/{8-digit key}
+# formspree-key:   https://formspree.io/f/{8-digit key}
 
 
 
